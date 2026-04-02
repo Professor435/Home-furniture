@@ -32,4 +32,9 @@ Opens gallery lightbox
 Provides contact information
 Can connect to human representatives
 The assistant appears as a floating button in the bottom-right corner and provides a complete conversational experience to help visitors get quotes, book measurements, learn about services, and navigate the website without leaving the chat interface
+
+#Ecommerce #FurnitureStore #WebDevelopment #FullStack #Django #React #OnlineShopping #InteriorDesign #HomeDecor #ProductCatalog #ShoppingCart #PaymentGateway #ResponsiveDesign #ModernUI #RetailTech #B2C #Startup #OpenSource #WebApp #Frontend
+
+
+
 contact for full version (professorshami435@gmail.com) 
