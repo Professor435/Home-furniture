@@ -37,4 +37,4 @@ The assistant appears as a floating button in the bottom-right corner and provid
 
 
 
-contact for full version (professorshami435@gmail.com) 
+contact us for amazing projects and for FYP's (professorshami435@gmail.com)
