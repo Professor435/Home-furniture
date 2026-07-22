@@ -6,7 +6,7 @@ I've added a sophisticated Virtual Assistant (FurnishBot) to the City Furnisher 
 Elegant floating chat widget with golden gradient design matching the website theme
 Smooth animations (slide-in, scale, pulse effects)
 Responsive design that works on mobile and desktop
-Minimize/maximize functionality
+Minimize/maximize functionality 
 2. Natural Language Processing
 Understands greetings, questions about services, pricing, and bookings
 Context-aware conversations (remembers user's name, service interest, room size, budget)
